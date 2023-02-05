@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adroitlyshivam&label=Profile%20views&color=0e75b6&style=flat" alt="adroitlyshivam" /> </p>
 
-- 🌱 I’m currently learning **Andriod Devlopment**
+- 🌱 I’m currently learning ** Full Stack Web Development**
 
-- 💬 Ask me about **c++,Java, Data structure and Algorithm**
+- 💬 Ask me about **Competative Programming ,Java, Data structure and Algorithm**
 
 - 📫 How to reach me **sv990906@gmail.com**
 
